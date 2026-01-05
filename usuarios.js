@@ -1,2 +1,2 @@
-const usuarios = ["Ana", "Luis", "Maria"];
-console.log(usuarios);
+const usuarios = ["Ana", "Luis", "Maria", "Pedro"];
+
