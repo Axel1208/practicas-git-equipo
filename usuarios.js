@@ -1,3 +1,2 @@
-const usuarios = ["Ana", "Luis", "Carlos"];
-
+const usuarios = ["Ana", "Luis", "Maria"];
 console.log(usuarios);
