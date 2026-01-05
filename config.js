@@ -1,6 +1,6 @@
 const config = {
   version: "1.0",
-  entorno: "produccion"
+  entorno: "testing"
 };
 
 module.exports = config;
